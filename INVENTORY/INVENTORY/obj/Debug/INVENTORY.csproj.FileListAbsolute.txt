@@ -1,0 +1,11 @@
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\bin\Debug\INVENTORY.exe.config
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\bin\Debug\INVENTORY.exe
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\bin\Debug\INVENTORY.pdb
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\obj\Debug\INVENTORY.csproj.AssemblyReference.cache
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Form1.resources
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Properties.Resources.resources
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\obj\Debug\INVENTORY.csproj.GenerateResource.cache
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\obj\Debug\INVENTORY.csproj.CoreCompileInputs.cache
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\obj\Debug\INVENTORY.exe
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\obj\Debug\INVENTORY.pdb
+C:\Users\matto\source\repos\INVENTORY\INVENTORY\obj\Debug\INVENTORY.Manages.resources
